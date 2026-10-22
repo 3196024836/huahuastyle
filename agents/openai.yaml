@@ -1,0 +1,4 @@
+interface:
+  display_name: "Huahua Style"
+  short_description: "文件授权、C# / Unity 代码风格、工具边界与 UI 验收的个人开发规范"
+  default_prompt: "请使用 $huahua-code-style，在本次授权范围内完成任务，保留现有改动，并区分已验证结果与尚未验证部分。"

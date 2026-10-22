@@ -1,0 +1,24 @@
+# Local machine and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*.tmp
+*.log
+
+# Credentials and local service configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+auth.json
+.mcp.json
+mcp.json
+
+# Local runtime artifacts
+__pycache__/
+node_modules/
